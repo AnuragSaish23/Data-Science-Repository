@@ -21,8 +21,8 @@
 |:-:|--------|:------:|----------------|
 | 01 | **OOP Concepts** | ✅ | Classes, Objects, Inheritance, Encapsulation, Polymorphism, Exception Handling |
 | 02 | **File Operations** | ✅ | File I/O, Error Handling |
-| 03 | **Advanced Python** | 🔄 | *In Progress* |
-| 04 | **Data Analysis** | ⏳ | *Upcoming* |
+| 03 | **Advanced Python** | ✅ | Iterators, Generators, File Handling |
+| 04 | **Data Analysis** | 🔄 | NumPy, Pandas, Matplotlib, Seaborn |
 | 05 | **Machine Learning** | ⏳ | *Upcoming* |
 | 06 | **Deep Learning** | ⏳ | *Upcoming* |
 
@@ -43,7 +43,14 @@
 ├── 📂 02-File-Operations/
 │   └── FileQ.ipynb
 ├── 📂 03-Advanced-Python/
-│   └── (Coming Soon)
+│   ├── Generators.ipynb
+│   ├── Iterators.ipynb
+│   └── largefile.txt
+├── 📂 04-Data-Analysis/
+│   ├── Data Visualization With Python/
+│   ├── DataManipulationNpPd.ipynb
+│   ├── NumpyPython.ipynb
+│   └── PandasPython.ipynb
 └── 📜 README.md
 ```
 
@@ -88,7 +95,7 @@ This repository contains my learning journey through **Krish Naik's Complete Mac
 
 ## 📅 Last Updated
 
-**February 09, 2026**
+**March 02, 2026**
 
 ---
 
