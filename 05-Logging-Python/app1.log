@@ -1,0 +1,5 @@
+2026-03-05 10:43:13 - Arithmatic App - DEBUG - Adding 10+15: 25
+2026-03-05 10:43:13 - Arithmatic App - DEBUG - Subtracting 20-5: 15
+2026-03-05 10:43:13 - Arithmatic App - DEBUG - Multiplying 4*6: 24
+2026-03-05 10:43:13 - Arithmatic App - DEBUG - Dividing 10/2: 5.0
+2026-03-05 10:43:13 - Arithmatic App - ERROR - Division by zero is not allowed
