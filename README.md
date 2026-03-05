@@ -23,8 +23,8 @@
 | 02 | **File Operations** | ✅ | File I/O, Error Handling |
 | 03 | **Advanced Python** | ✅ | Iterators, Generators, File Handling |
 | 04 | **Data Analysis** | 🔄 | NumPy, Pandas, Matplotlib, Seaborn |
-| 05 | **Machine Learning** | ⏳ | *Upcoming* |
-| 06 | **Deep Learning** | ⏳ | *Upcoming* |
+| 05 | **Logging Python** | ✅ | Python Logging Module, Handlers, Formatters |
+| 06 | **Machine Learning** | ⏳ | *Upcoming* |
 
 > **Legend:** ✅ Completed | 🔄 In Progress | ⏳ Upcoming
 
@@ -50,7 +50,13 @@
 │   ├── Data Visualization With Python/
 │   ├── DataManipulationNpPd.ipynb
 │   ├── NumpyPython.ipynb
-│   └── PandasPython.ipynb
+│   ├── PandasPython.ipynb
+│   └── numpyQs.ipynb
+├── 📂 05-Logging-Python/
+│   ├── Logs/
+│   ├── app.py
+│   ├── logging.ipynb
+│   └── multipleLogs.ipynb
 └── 📜 README.md
 ```
 
@@ -95,7 +101,7 @@ This repository contains my learning journey through **Krish Naik's Complete Mac
 
 ## 📅 Last Updated
 
-**March 02, 2026**
+**March 05, 2026**
 
 ---
 
